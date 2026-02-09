@@ -133,9 +133,9 @@ Estas tres piezas están interrelacionadas y forman la base del análisis de rie
 
 ## 📌 Referencias
 
-- Instituto de conceptos de seguridad informática y riesgos. :contentReference[oaicite:14]{index=14}  
-- Definición de riesgo y elementos relacionados. :contentReference[oaicite:15]{index=15}  
-- Conceptos de vulnerabilidad y amenazas. :contentReference[oaicite:16]{index=16}  
-- Descripción de MFA. :contentReference[oaicite:17]{index=17}
+- Instituto de conceptos de seguridad informática y riesgos.
+- Definición de riesgo y elementos relacionados. 
+- Conceptos de vulnerabilidad y amenazas.
+- Descripción de MFA. 
 
 ---
